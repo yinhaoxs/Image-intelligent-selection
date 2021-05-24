@@ -14,8 +14,6 @@
 该模块为目标显著性检测, 可根据人眼聚焦点以及区域的大小来限制输出的最佳图片
 # IQA质量评价模块
 根据输出的评分来选取图像质量最佳的图片
-# 各模块模型百度云下载地址
-链接: https://pan.baidu.com/share/init?surl=i7WyNVYTZyyu1AEQvilETg  密码: s1gf
 ```
 
 ## 二、多张图片抽取最佳图片
@@ -29,6 +27,9 @@ python single.py
 # 程序启动
 python demo.py
 ```
+
+## 四、各模块模型百度云下载地址
+链接: https://pan.baidu.com/share/init?surl=i7WyNVYTZyyu1AEQvilETg  密码: s1gf
 
 
 
