@@ -15,7 +15,7 @@
 # IQA质量评价模块
 根据输出的评分来选取图像质量最佳的图片
 # 各模块模型百度云下载地址
-链接: https://pan.baidu.com/s/1i7WyNVYTZyyu1AEQvilETg  密码: s1gf
+链接: https://pan.baidu.com/share/init?surl=i7WyNVYTZyyu1AEQvilETg  密码: s1gf
 ```
 
 ## 二、多张图片抽取最佳图片
